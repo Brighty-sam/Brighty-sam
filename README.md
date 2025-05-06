@@ -1,3 +1,4 @@
+
 # 👋 Hello, I'm Brightina S
 
 🎓 Postgraduate in Artificial Intelligence and Data Science  
@@ -26,6 +27,16 @@ Intelligent clothes retrieval system using rain sensors and automation.
 
 ---
 
+## 🛠️ Tools & Technologies
+
+- Python, Pandas, NumPy, Scikit-learn
+- OpenCV, MediaPipe, TensorFlow/Keras
+- Streamlit, Matplotlib, Seaborn
+- VS Code, Git, Anaconda
+
+---
+
 ## 📫 Reach Me At
+
 - ✉️ brightinas24@karunya.edu.in  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brightina-sam-624365364/)
