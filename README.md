@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Brightina S
 
-<!--
-**Brighty-sam/Brighty-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Postgraduate in Artificial Intelligence and Data Science  
+💡 Passionate about building AI tools to solve real-world human problems  
+💻 Skilled in Python, OpenCV, MediaPipe, and ML modeling  
+🎤 Love teaching, singing, translating, and sharing knowledge with heart
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🖐️ Gesture & Voice Controlled Presentation System
+AI-based interface to control presentations using hand gestures and voice — built with OpenCV, MediaPipe, and speech recognition.
+
+### 🤟 Indian Sign Language Recognition
+Computer vision model to recognize Indian sign language gestures using Python & OpenCV.
+
+### 🦟 Dengue Outbreak Prediction Dashboard
+Streamlit app using ML to visualize and predict dengue outbreaks across India.
+
+### 😴 Driver Drowsiness Detection
+Face landmark-based alert system for drivers using real-time OpenCV tracking.
+
+### 🌧️ RainAlert (IoT Project)
+Intelligent clothes retrieval system using rain sensors and automation.
+
+---
+
+## 📫 Reach Me At
+- ✉️ brightinas24@karunya.edu.in  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brightina-sam-624365364/)
